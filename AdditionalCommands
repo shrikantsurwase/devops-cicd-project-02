@@ -1,1 +1,1 @@
-aws eks update-kubeconfig --region ap-south-1 --name ankit-cluster
+aws eks update-kubeconfig --region us-east-1 --name shrikant-cluster
